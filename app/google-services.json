@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65131187345",
+    "firebase_url": "https://credible-cosine-229813.firebaseio.com",
+    "project_id": "credible-cosine-229813",
+    "storage_bucket": "credible-cosine-229813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65131187345:android:072345d0629d7410384330",
+        "android_client_info": {
+          "package_name": "com.szakdolgozat.sharey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65131187345-3oe7vd3406rc4mrdcchmdmf2t3nhns4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.szakdolgozat.sharey",
+            "certificate_hash": "f2f6cabf2544635f67f5aa6bcac7d04540eafdb4"
+          }
+        },
+        {
+          "client_id": "65131187345-aa61o58oac9a4qmrfrpddql5slpp0rc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVHL9-7E8foEQIU7yrl-pqgEJwX2y0IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65131187345-aa61o58oac9a4qmrfrpddql5slpp0rc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65131187345-7vcq92efu6anmuf1r5lcs5hcoo7alaht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Weblapp.ProbaIOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
